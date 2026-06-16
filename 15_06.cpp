@@ -39,11 +39,13 @@ int main()
             int size;
             cout << "Enter size array "; cin >> size;
             task2(size);
+            break;
         }
         case 3: {
             int size;
             cout << "Enter size array "; cin >> size;
             task3(size);
+            break;
         }
         case 4: {
             task4(); break;
