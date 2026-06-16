@@ -21,6 +21,9 @@ void task2(const int n);
 /// <param name="n">Количество элементов массива</param>
 void task3(const int n);
 
+/// <summary>
+/// Задача 4
+/// </summary>
 void task4();
 
 using namespace std;
